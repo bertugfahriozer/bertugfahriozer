@@ -1,3 +1,5 @@
+<figure><embed src="https://wakatime.com/share/@bertugfahriozer/9037d369-a23c-4c60-90b1-d351c7c01b4a.svg"></embed></figure>
+
 - 👋 Hi, I’m @bertugfahriozer
 - 👀 I’m interested in codeigniter framework
 - 🌱 I’m currently learning flutter
