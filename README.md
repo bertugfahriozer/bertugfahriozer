@@ -16,13 +16,14 @@ I'm a software developer based in Balıkesir, Turkey. I focus on creating modula
 ---
 
 ## 🛠️ Uzmanlık Alanlarım | My Expertise
-
+ **TR:**
 - ⚙️ CodeIgniter 4 ile gelişmiş sistem geliştirme  
 - 🛡️ OAuth2 ve JWT tabanlı kimlik doğrulama sistemleri  
 - 🗃️ MongoDB ile veritabanı çözümleri  
 - 🛒 E-ticaret & alışveriş sepeti sistemleri  
 - 🧩 Modüler yapılar ve plugin sistemleri
 
+🇬🇧 **EN:**
 - ⚙️ Advanced system development with CodeIgniter 4  
 - 🛡️ OAuth2 and JWT-based authentication systems  
 - 🗃️ MongoDB database integrations  
