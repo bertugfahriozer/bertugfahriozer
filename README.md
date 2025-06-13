@@ -48,6 +48,18 @@ I'm a software developer based in Balıkesir, Turkey. I focus on creating modula
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertugfahriozer&layout=donut&theme=dark)
+
+---
+
+![My Skills](https://skillicons.dev/icons?i=php,html,css,js,jquery,mysql,mongodb,bootstrap,git,github,npm,bitbucket,docker,postman,ubuntu,debian,linux,nginx,cloudflare,obsidian,codepen,md,vscode&perline=8)
+
+---
+
+![bertugfahriozer's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bertugfahriozer&layout=compact)
+
+---
+
 ## 📬 İletişim | Contact
 
 - 📧 E-posta | Email: [bertugfahriozer@gmail.com](mailto:bertugfahriozer@gmail.com)  
