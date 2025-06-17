@@ -52,7 +52,7 @@ I'm a software developer based in Balıkesir, Turkey. I focus on creating modula
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=php,html,css,js,jquery,mysql,mongodb,bootstrap,git,github,npm,bitbucket,docker,postman,ubuntu,debian,linux,nginx,cloudflare,obsidian,codepen,md,vscode&perline=8)
+![My Skills](https://skillicons.dev/icons?i=php,html,css,js,jquery,mysql,mongodb,bootstrap,git,github,npm,bitbucket,docker,postman,ubuntu,debian,linux,nginx,cloudflare,obsidian,codepen,md,vscode)
 
 ---
 
