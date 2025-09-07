@@ -39,6 +39,7 @@ I'm a software developer based in Balıkesir, Turkey. I focus on creating modula
 - [ci4mongodblibrary](https://github.com/bertugfahriozer/ci4mongodblibrary) – MongoDB için CI4 entegrasyonu | MongoDB support for CI4  
 - [ci4shoppingcart](https://github.com/bertugfahriozer/ci4shoppingcart) – CI4 için alışveriş sepeti | Shopping cart system for CI4  
 - [ci4ms](https://github.com/ci4-cms-erp/ci4ms) – Modüler CMS & ERP sistemi | Modular CMS & ERP platform
+- [sql2migration](https://github.com/bertugfahriozer/sql2migration) - SQL dump dosyalarını migration dosyalarına dönüştürmek için Ci4 Spark komutu. | Ci4 Spark command to convert SQL dump files into migration files.
 
 ---
 
