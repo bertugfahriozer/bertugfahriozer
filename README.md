@@ -1,5 +1,7 @@
 # 👋 Merhaba, ben Bertuğ Fahri ÖZER | Hello, I'm Bertuğ Fahri ÖZER
 
+![](https://komarev.com/ghpvc/?username=bertugfahriozer)
+
 🎯 **PHP geliştiricisi** | 🧩 **CodeIgniter 4 uzmanı** | 🧪 **Açık kaynak tutkunu**  
 🎯 **PHP Developer** | 🧩 **CodeIgniter 4 Expert** | 🧪 **Open Source Enthusiast**
 
